@@ -26,7 +26,9 @@ Source code introduction: The system has no management backend, and the data is 
 ### Single currency mining business logic
 
 单币挖矿是什么意思？
-单币挖矿⼜被成为单币⽆损挖矿。特点就是拿着单个加密资产，质押后产⽣收益。这种质押⻛险极低(⼤多数时候没有⻛险)，操作简单，如果只是质押加密资产也就是借⼊资产⽽不借出资产，就相当于单币挖矿。最⼤的弊病是收益率不够⾼。
+单币挖矿⼜被成为单币⽆损挖矿。单币质押简单理解就是质押一种代币，可以锁仓质押，也可随，时提取，不通的方式年化收益不等。特点就是拿着单个加密资产，质押后产⽣收益。这种质押⻛险极低(⼤多数时候没有⻛险)，操作简单，如果只是质押加密资产也就是借⼊资产⽽不借出资产，就相当于单币挖矿。最⼤的弊病是收益率不够⾼。
 
 What does single coin mining mean?
-Single-coin mining is called single-coin lossless mining. The characteristic is to hold a single encrypted asset and generate income after pledge. This kind of pledge is very low risk (most of the time there is no risk), and the operation is simple. If you only pledge encrypted assets, that is, borrow assets without lending assets, it is equivalent to single-coin mining. The biggest drawback is that the rate of return is not high enough.
+Single-coin mining is called single-coin lossless mining. A simple understanding of single-currency pledge is to pledge a token, which can be locked and pledged, or withdrawn at any time. The annualized income varies in different ways.The characteristic is to hold a single encrypted asset and generate income after pledge. This kind of pledge is very low risk (most of the time there is no risk), and the operation is simple. If you only pledge encrypted assets, that is, borrow assets without lending assets, it is equivalent to single-coin mining. The biggest drawback is that the rate of return is not high enough.
+
+
