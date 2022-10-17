@@ -7,7 +7,7 @@ smartcontract source code:Cardano Haskell
 
 
 Source code introduction: The system has no management backend, and the data is completely decentralized. All data is stored in the contract on the chain. Only the front end interacts with the contract. The contract can be deployed in any network environment and is compatible with all networks. All executable operations such as setting the lock-up period and output rate can be executed in the contract. The contract comes with Chinese documents and comments, source code compilation and all maintenance documents and developer documents are provided. The front-end supports wallet connection network judgment and prompts to connect to the appropriate network. It can adapt to multiple network environments and can also be set independently to support only a single network.
-源码介绍:系统无管理后台，完全属于去中心化数据都存在链上合约里，只有前端与合约的交互，合约可在任意网络环境上部署，兼容全部网络，合约源码齐全无后门，可在合约设定锁仓期限以及产出速率等一切可执行操作可在合约执行，合约附带中文文档和注释，赠送源码编译以及全部维护文档以及开发者文档，前端支持钱包连接网络判断以及提示连接合适网络，可适应多网络环境情况下也可以单独设定仅支持独一网络。
+源码介绍:系统无管理后台，完全属于去中心化数据都存在链上合约里，只有前端与合约的交互，合约可在任意网络环境上部署，兼容全部网络，可在合约设定锁仓期限以及产出速率等一切可执行操作可在合约执行，合约附带中文文档和注释，源码编译以及全部维护文档以及开发者文档，前端支持钱包连接网络判断以及提示连接合适网络，可适应多网络环境情况下也可以单独设定仅支持独一网络。
 
 ### pledge step:
 
